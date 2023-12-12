@@ -1,7 +1,7 @@
 # OpenVLC 
 //////
 扭扭捏捏
-你好呀
+
 This is the repository for the OpenVLC platform, an open-source, flexible and low-cost Visible Light Communication System platform. The research and development is led by IMDEA Networks Institute, Spain, but anyone is welcome to contribute.
 
 ## New OpenVLC1.3 version
